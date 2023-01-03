@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T03:00:41.261Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Ip8-IgEIo_c-d0L1nW6e" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-03T03:03:07.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="dAr-tDOoImzh_nPsE1bH" version="20.7.4" type="github" pages="4">
   <diagram id="ASxVColjz8fbyWe-uOfy" name="项目流程">
     <mxGraphModel dx="2501" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -676,6 +676,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8NPTWpUgirelmu-N0B4D-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_A-iQ378pJgx4dnOWkPJ-1" target="8NPTWpUgirelmu-N0B4D-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="590" />
+              <mxPoint x="880" y="590" />
+              <mxPoint x="880" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_A-iQ378pJgx4dnOWkPJ-1" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="80" y="610" width="120" height="50" as="geometry" />
         </mxCell>
@@ -827,6 +836,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8NPTWpUgirelmu-N0B4D-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8NPTWpUgirelmu-N0B4D-23" target="8NPTWpUgirelmu-N0B4D-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8NPTWpUgirelmu-N0B4D-23" value="数据接入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="-170" y="240" width="90" height="450" as="geometry" />
         </mxCell>
@@ -843,6 +855,18 @@
         </mxCell>
         <mxCell id="8NPTWpUgirelmu-N0B4D-26" value="文件" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="-310" y="430" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8NPTWpUgirelmu-N0B4D-33" value="数据共享" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="930" y="240" width="90" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="8NPTWpUgirelmu-N0B4D-37" value="鉴权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="935.5" y="250" width="79" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8NPTWpUgirelmu-N0B4D-38" value="安全审计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="935.5" y="310" width="79" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8NPTWpUgirelmu-N0B4D-39" value="脱敏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="935.5" y="370" width="79" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
