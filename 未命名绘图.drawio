@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T15:27:30.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="pTRgHbD_4khgEHT0Cox6" version="21.6.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-08-11T10:54:21.150Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="fKUqGhdLlwM7mf-Wwpuv" version="21.6.5" type="github" pages="7">
   <diagram id="EAbANqQJf72fO9tkzqav" name="第 1 页">
     <mxGraphModel dx="1434" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -672,13 +672,13 @@
           <mxGeometry x="613" y="994" width="179" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PKBIfdxRUPvsT6xc7333-52" value="票据管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="363" y="1108.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="367" y="1108.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PKBIfdxRUPvsT6xc7333-53" value="消息通知" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1108.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="517" y="1108.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PKBIfdxRUPvsT6xc7333-54" value="执法台账" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="657" y="1108.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="666" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PKBIfdxRUPvsT6xc7333-55" value="评议考核/执法办案预警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="273" y="669" width="166" height="100" as="geometry" />
@@ -689,38 +689,41 @@
         <mxCell id="PKBIfdxRUPvsT6xc7333-57" value="信息公示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="630" y="669" width="166" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PKBIfdxRUPvsT6xc7333-58" value="票据申请" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="PKBIfdxRUPvsT6xc7333-58" value="用票管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="95" y="799" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKBIfdxRUPvsT6xc7333-59" value="执收信息管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="PKBIfdxRUPvsT6xc7333-59" value="执收信息维护" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="238" y="799" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKBIfdxRUPvsT6xc7333-60" value="普通支付" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="PKBIfdxRUPvsT6xc7333-60" value="通用票据用户服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="382" y="799" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKBIfdxRUPvsT6xc7333-61" value="延期支付" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="PKBIfdxRUPvsT6xc7333-61" value="缴款通知管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="532" y="799" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKBIfdxRUPvsT6xc7333-62" value="分期支付" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="PKBIfdxRUPvsT6xc7333-62" value="电子缴款书" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="676" y="799" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKBIfdxRUPvsT6xc7333-63" value="退款管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="PKBIfdxRUPvsT6xc7333-63" value="退付申请" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="95" y="874" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKBIfdxRUPvsT6xc7333-64" value="缴款单管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="PKBIfdxRUPvsT6xc7333-64" value="收入退付书" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="238" y="874" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKBIfdxRUPvsT6xc7333-65" value="支付鉴权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="PKBIfdxRUPvsT6xc7333-65" value="分成核算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="382" y="874" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PKBIfdxRUPvsT6xc7333-66" value="支付消息同步管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="532" y="874" width="263" height="60" as="geometry" />
+          <mxGeometry x="675" y="874" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PKBIfdxRUPvsT6xc7333-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PKBIfdxRUPvsT6xc7333-73" target="PKBIfdxRUPvsT6xc7333-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PKBIfdxRUPvsT6xc7333-73" value="省综合执法终端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="249" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qaWVpzrmpW4KZD8VaEOr-1" value="统计分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="532" y="874" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
